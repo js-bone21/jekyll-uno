@@ -12,8 +12,6 @@ image:
   creditlink: ""
 ---
 
-### First Things First
-
 Hello! And welcome to my blog. The purpose of this blog is primarily to share my free and open thoughts that I have in the course of my travels. Those of you who have followed me before may have read of the things I'd written in my previous blog...so thank you for coming back to my new site! Unfortunately, I backed up my old site incorrectly and I believe I've lost ALL of my posts from that site. I have the hard-written copies with me, but I had made some changes as I type it up for the web...ugh, I may get around to reposting those at some point.
 
 For those of you who haven't read previously, welcome and thank you!
