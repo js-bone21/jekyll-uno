@@ -1,11 +1,11 @@
 # Site settings
-title:                  Joshua Soucie
+title:                  'Joshua Soucie'
 description:            'Engineer, Hacker, Entrepreneur, Globetrotter'
 url:                    'http://joshsoucie.com'
 baseurl:                ''
-background_image_url:   /images/torelj.jpg
-profile_image_url:      /images/cubabeach.jpg
-google_analytics:       'UA-60122638-1
+background_image_url:   '/images/torelj.jpg'
+profile_image_url:      '/images/profile_img.jpg'
+google_analytics:       'UA-60122638-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
