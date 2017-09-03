@@ -2,7 +2,7 @@
 layout: post
 title: "Time is Money. At Least That's What I'm Told"
 categories: journal, travel, time
-tags: [travel]
+tags: [journal,travel]
 image:
   # Feature: 1024x600 pixels
   # Teaser: 1024x380 pixels
