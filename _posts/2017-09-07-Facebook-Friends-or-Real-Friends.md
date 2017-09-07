@@ -24,7 +24,7 @@ The morning after the news broke about record rainfalls and flooding in Houston 
 
 These are people that I've met and befriended on the road or who were on the road and probably wouldn't have any vested interest in the events in Texas had our paths never crossed.
 
-> “This 3x5 size device lets me talk to anyone anywhere on Earth at any time I want.”
+> “This 3x5 size device lets me talk to anyone anywhere on Earth at anytime I want.”
 
 To me, and maybe to many of you, the line between “Facebook” friend and “real” friend has become blurred. The [Digital Revolution](https://en.wikipedia.org/wiki/Digital_Revolution) has brought about mass connectivity and allowed us to share thoughts and ideas nearly free and nearly instantaneously across the globe. I will frequently point to my phone and brag that “this 3x5 size device lets me talk to anyone anywhere on Earth at anytime I want.” And this doesn’t just include text-based messages, although many of us may prefer this medium, but also includes audio and video.
 
