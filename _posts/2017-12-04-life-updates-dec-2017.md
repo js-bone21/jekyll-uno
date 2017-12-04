@@ -43,7 +43,7 @@ Thailand - mid-late Jan to early-mid Feb
 
 And then...well, that's up in the air right now...and perhaps the biggest issue determining where I'll go next is jobs.
 
-SOOO! And here's my shameless plug to you all, if anyone has contacts in the motorcycle industry (especially manufacturers in motorcycle racing), PLEASE PLESAE PLEASE get in touch with me ([FB](http://fb.me/{{ site.author.facebook_username }}) or [Twitter](http://twitter.com/{{ site.author.twitter_username }})). #notdesperate
+SOOO! And here's my shameless plug to you all, if anyone has contacts in the motorcycle industry (especially manufacturers in motorcycle racing), PLEASE PLEASE PLEASE get in touch with me ([FB](http://fb.me/{{ site.author.facebook_username }}) or [Twitter](http://twitter.com/{{ site.author.twitter_username }})). #notdesperate
 
 ### Not Super Travel Blog
 
