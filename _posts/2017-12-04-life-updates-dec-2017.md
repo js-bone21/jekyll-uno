@@ -43,13 +43,13 @@ Thailand - mid-late Jan to early-mid Feb
 
 And then...well, that's up in the air right now...and perhaps the biggest issue determining where I'll go next is jobs.
 
-SOOO! And here's my shameless plug to you all, if anyone has contacts in the motorcycle industry (especially manufacturers in motorcycle racing), PLEASE PLESAE PLEASE get in touch with me ([FB](http://fb.me/{{ site.author.facebook_username }}) or [Twitter](http://twitter.com/{{ site.author.twitter_username }})). #notdesperate
+SOOO! And here's my shameless plug to you all, if anyone has contacts in the motorcycle industry (especially manufacturers in motorcycle racing), PLEASE PLEASE PLEASE get in touch with me ([FB](http://fb.me/{{ site.author.facebook_username }}) or [Twitter](http://twitter.com/{{ site.author.twitter_username }})). #notdesperate
 
 ### Not Super Travel Blog
 
 I haven't really wanted this to be a travel blog because I think there are so many excellent sources of travel information already out there (even that I use - links below). That said, if there's enough of you guys demanding I write more things about how/what/where, I'm not opposed to dedicating a section of this blog to that...you'll just have to let me know in the comments (well, on [FB](http://fb.me/{{ site.author.facebook_username }}) or [Twitter](http://twitter.com/{{ site.author.twitter_username }})).
 
-I've written a few things for indivudlas of you before, and I maintain the things I've written mostly in google docs, but they're usually sporadic, train of thought FaceBook messages for the most part. Not as cohesive as thought-out or constructed articles or webpages, like most of the ones below.
+I've written a few things for individuals of you before, and I maintain the things I've written mostly in google docs, but they're usually sporadic, train of thought FaceBook messages for the most part. Not as cohesive as thought-out or constructed articles or webpages, like most of the ones below.
 
 
 Safe travels and happy surfing!
@@ -65,8 +65,10 @@ Links to Travel Sites I'm Constantly On
 
 For China:
 1. [DianPing](https://www.dianping.com/citylist)
-2. [Gunar]()
+2. [Qunar](https://www.qunar.com/)
 
-Can't find the page for Gunar...and the app is in Chinese..I got it from a QR code. If anyone can help me out with a link to the webpage or to the app (aka APP) that'd be great!
+~~Can't find the page for Gunar...and the app is in Chinese..I got it from a QR code. If anyone can help me out with a link to the webpage or to the app (aka APP) that'd be great!~~
+
+UPDATE Dec 2017: Best to use the translate feature of Google Chrome or something similar because the English site doesn't work at the moment.
 
 [1]: https://www.chinahighlights.com/huangshan/yellow-mountain/oddly-shaped-pines.htm

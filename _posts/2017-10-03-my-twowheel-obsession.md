@@ -31,48 +31,55 @@ I also rode that bike nearly every day that I lived down in the bayou in Louisia
 
 
 
-For as long as I can remember, I’ve had an obsession with two wheels. Although my level of immediate interest in this wonderful class of vehicles has ebbed through my nearly 27 years of life, I feel it’s served as a focal point, and an interest I intend to pursue [unceasingly] mocking forward...let me explain.
-
-
+For as long as I can remember, I’ve had an obsession with two wheels. Although my level of immediate interest in this wonderful class of vehicles has ebbed through my nearly 27 years of life, I feel it’s served as a focal point, and an interest I intend to pursue [unceasingly] moving forward...let me explain.
 
 ### Circa 2000: In the Beginning...
 
-Nightly bike rides were the norm in my childhood and even though I never got any crazier than jumping curbs and a few steps, life on two wheels has been an obsession for me.
+Since I was young, life on two wheels has been an obsession for me. Nightly bike rides were the norm in my childhood. It seems that nearly every night after dinner, we'd get the bikes out of the garage and ride down to one of the local parking lots, often mixing up the route we took to get there. My mom, my dad, or both would always accompany me or us.
 
 I can’t remember how old I was when I first found out that my dad used to have a motorcycle. No doubt I loved my bicycle, so, to me, motorcycles seemed an obvious extension of a bicycle - something nearly identical to a bicycle, but with a motor attached. This is, after all, how motorcycles got their start.
 
-Well, one thing that did stick with me was that, like most mothers, my mother said I couldn't have one. But I’ve also always remembered the caveat she gave -
-“As long as you live under my roof”.
+> "Not as long as you live under my roof”
 
-I swore to myself then, and I spared no opportunity to remind my parents, that as soon as I turned 18 and moved out of their house, I would buy a motorcycle.
+When I was still pretty young, my dad would talk about how he wanted to get me a dirt bike - something I came to realize my mom definitely forbade. It seemed almost like he was trying to tease me even though I knew he wasn't. And the only thing more appealing to a boy than something his dad does is something he can't have. I’ve also always remembered the caveat my mom gave - "Not as long as you live under my roof.” I swore to myself then, and I spared no opportunity to remind my parents, that as soon as I turned 18 and moved out of their house, I would buy a motorcycle.
+
+I definitely have to thank both of my parents for insisting that we always wore helmets. It might seem cumbersome, but I can definitely attribute my habit to ALWAYS wear a helmet to the two of them. They have, to say the least, invested so much of their time, effort, and money into who I am today.
+
+> Thanks Mom and Dad =D
 
 ### Circa 2011: The Good News - I Bought a Motorcycle, The Bad News...
 
-I’m sure both my parents were a bit relieved that I didn’t actually commit to my first motorcycle until I was nearly 21. And I think they were further relieved at the fact that it didn’t run.
+I’m sure both my parents were a bit relieved that I didn’t actually commit to my first motorcycle until I was nearly 21. And I think my mother, at least, was relieved by the fact that it didn’t run.
 
-It was 2011 and there was so much excitement around DIY electric vehicle conversions. One of my childhood friends even had a converted e-DeLorean. Sure, he had some problems (bent the frame due to battery weight), but what he’d been able to build was fantastic in my opinion. I wanted something similar, and my love for two wheels seemed an obvious direction. At the time, I was even part of SAE at Rice although it wasn’t very active while I was there, and I’d just come off of the Rice Solar Car team where I’d worked on the power train , so I thought I knew a bit about what it would it take and what direction I would head.
+> To say I was a bit jealous would be an understatement.
 
-Well, for those of you who know me...I do not have an electric motorcycle (yet). I even didn’t end up selling the donor until earlier this year (2017).
+It was 2011 and there was so much excitement around DIY electric vehicle conversions. One of my childhood friends even had a (converted DeLorean)[link to luke's e-delorean]. Sure, he had some problems (bent the frame due to battery weight), but he'd built an all-electric vehicle himself. To say I was a bit jealous would be an understatement. I absolutely wanted something similar, and my love for two wheels seemed an obvious differentiation.
 
-I do still have a bit of this e-motorcycle bug, and was even considering a position with an e-motorcycle manufacturer. I just couldn’t commit to the location..
+> I do not have an electric motorcycle (yet)
+
+At the time, I was even part of the Society of Automotive Engineers at Rice, although it wasn’t very active while I was in school. I’d also spent the past semester working on the electric power train for the Rice Solar Car. So, I thought I knew a bit about what it would it take and what direction I would head.
+
+Well, for those of you who know me...I (unfortunately) do not have an electric motorcycle (yet). I even didn’t end up selling the donor until earlier this year (2017).
+
+I do still have a bit of this e-motorcycle bug, and had been considering a position with one e-motorcycle manufacturer. I just couldn’t commit to the location...
 
 ### Circa 2013: Bicycle Commuting
 
-Maybe you were expecting me to only talk about motorcycles from here on out...but c’mon, if I’d only wanted to talk about motorcycles, I wouldn't have bothered to set this up with “two wheels”.
+Maybe you were expecting me to only talk about motorcycles from here on out...but if I’d only wanted to talk about motorcycles, I wouldn't have bothered to set this up with “two wheels”.
 
-Welp, I bike commuted for nearly 3 years in Houston, but also in small town Louisiana. I’ve biked to school, to my part-time internship, to my first full-time job interview, and to my first job.
+Welp, I bike commuted for nearly 3 years in Houston, but I also bicycle commuted in small town Louisiana. I’ve biked to school, to my part-time internship, to my first full-time job interview, and to my first job.
 
-If you’ve never bike commuted, I would highly recommend it! Here are some highlights:
+If you’ve never bike commuted, I would highly recommend it! Here are some major pros:
 
 Exercise on your way to work.
 Exercise on you way home from work
 Get the vitamin D you desperately need
 Breath a big ol’ breath of fresh air!
-Save on gas and if you don’t have a car, save on insurance and depreciation and maintenance, oh my[link lions and tigerand bears], maybe find a gif too!
+Save on gas and if you don’t have a car, save on insurance and depreciation and maintenance, oh my[link lions and tigerand bears, maybe find a gif too!]
 
-Welp, I can’t say enough about bike commuting - good and bad, but the bad is for another article on what you didn’t learn in driver’s ed
+Welp, I can’t say enough about bike commuting - good and bad, but the bad is for another article on [what you didn’t learn in driver’s ed][#].
 
-I absolutely love bike commuting and I’ve pretty much committed myself to NEVER driving a car for commuting purposes again - more on that later ;)
+I absolutely love bike commuting and I’ve pretty much committed myself to NEVER driving a car for commuting purposes again - [more on that in another post](#) ;)
 
 
 ### Circa 2015: My Second Motorcycle...It Runs!
@@ -81,16 +88,20 @@ I didn’t have a car when I decided to buy my second motorcycle...and I also li
 
 Enter the KLR.
 
-When I bought this bike, I was not prepared for the cult following that comes with it [link to klr650.net]. To pump up it’s reputation a bit, I’ll say that a version of this motorcycle is ridden by the US marines and unfortunately that version is not sold to the public [link to article saying this].
+When I bought this bike, I was not prepared for the cult following that comes with it [link to klr650.net](#). To pump up it’s reputation a bit, I’ll say that a diesel version of this motorcycle is ridden by the US marines and unfortunately that version is not sold to the public [link to article saying this](#).
 
-At any rate, as most people say, the KLR does nothing excellently, but it does most things well. Too heavy for true off-roading, not sporty enough for real knee-dragging, too vibrate-y for long highway runs, this beast deserves the credit for doing everything. And that is what I’ve asked of it so far (I still own this bike!).
+The KLR650 has one giant single cylinder. As a result, you get gobs of torque at low RPMs, but it doesn't rev too high (not so much power). It weighs a bit more than its competitors in the dual-sport category, and it's too heavy for any real off-roading. Where the KLR really shines is that it's absolutely bullet-proof.
+
+As I stated before, this beast (a variation of it) is ridden by the US Marines. Kawasaki has also been making this (basically) same exact bike for more than 30 years which means there is plenty of experience and plenty of parts. The Gen-1 KLR is carbeurated and as a result, basically all mechanical. The most complicated part of this bike is the rectifier used to power the thing once the motor is running. With minor modifications, there are people riding this bike well over 100,000 miles, which is nearly unheard of for a small engine machine.
+
+At any rate, as most people say, the KLR does nothing excellently, but it does everything well. Too heavy for true off-roading, definitely not sporty enough for real knee-dragging, stock gearing isn't conducive to long highway runs, but this machine still deserves the credit for doing everything. And that is what I’ve asked of it so far (I still own this bike!).
 
 
 ### Circa 2016: My Third Motorcycle
 
 As a kid, I cant ever recall thinking that I’d be so fortunate as to own two motorcycles at the same time, but that became a reality in 2016 just before I moved out to Florida.
 
-A co-worker of mine was looking to sell his SV650, and I was eager to have a more street-oriented bike than the KLR, so I jumped.
+A co-worker of mine was looking to sell his SV650, and I was eager to have a more street-oriented bike than the KLR, so I jumped at the opportunity.
 
 The first-gen SV650 is a sleek-looking half-faired V-twin - two cylinders, arranged in a “V”-shape. The ride position of the bike is a bit less aggressive than a supersport (ie. CBR, GSX-R), which makes it (only slightly) more comfortable than those bikes.
 
@@ -100,21 +111,22 @@ I rode this bike all over central Florida. Unfortunately, although I did want to
 
 The SV650 was an absolute blast, and I hope to possibly pick up something similar as a future run-around or, ideally, a race-specific bike! These things really are fantastic and if you can find one in good shape under about $1800, I highly recommend picking one up! (Who says motorcycles have to be expensive?)
 
-Sadly, I sold this bike in late 2016 due to moving away from Florida and eventually, out of the country.
+Sadly, I sold this bike in late 2016 due to moving away from Florida and eventually, out of the United States.
 
 ### August 2017: The Revelation
 
 Priority. When this word first came into use in [please go back and reference this exactly as it is referenced in Essentialism], it was singular. It wasn’t until the late 20th century that individuals, especially managers, began to pervert the word by making it plural.
 
-A priority is simply the single most impoprtant thing.
+A priority is simply the single most important thing.
 
-Before I came across this revelation...that priority is inherently singular, I had been drawing closer to motorcycles as a career.
+Before I came across this revelation...that priority is inherently singular, I had already begun drawing closer to motorcycles as a career.
 
-By August, it was nearly 8 months since I’d left my corporate position that had taken me through three states and showed me just how terrible, money-centered, and out of touch management can be. My two and a half years in that particular corporate environment has definitely killed my desire to seek an MBA for fear that I too could become a spreadsheet jockey [write an article about this].
+By August, it was nearly 8 months since I’d left my corporate position that had taken me through three states and showed me just how terrible, money-centered, and out of touch management can be. My two and a half years in that particular corporate environment has definitely killed my desire to work for any such corporate entity ever again.
+~~seek an MBA for fear that I too could become a spreadsheet jockey [write an article about this].~~
 
-However, leaving that position had given me plenty of time to decompress, [refocus my energy], write a personal mission statement, and most importantly, read (and write a bit).
+However, leaving that position had given me plenty of time to decompress, [refocus my energy], [write a personal mission statement](#), and most importantly, read (and write a bit).
 
-It was during my mission statement writing and through subsequent books and reflection periods that I came across what, I believe, I will focus my career on. This feeling initially set in during the quiet, serenity, and gorgeous landscapes I experienced in the least densely populated country on Earth, the Land of the Eternal Blue Sky, Mongolia.
+It was during my mission statement writing and through subsequent books and reflection periods that I came across the thing that I will focus my career on. This feeling initially set in during the quiet, serenity, and gorgeous landscapes I experienced in the least densely populated country on Earth, the Land of the Eternal Blue Sky - Mongolia.
 
 Motorcycles. There’s just no feeling in the world, in my opinion, like being on two wheels in the open air. Although I similarly love bicycles, as two wheelers, motorcycles have a enhanced emotional connection to me. I cannot count the times I’ve ridden my motorcycle out of a neighborhood in the morning and just suddenly felt a wave of positive energy flow over me - the crisp morning air blowing through my jacket, ...blah..feel this out.
 
