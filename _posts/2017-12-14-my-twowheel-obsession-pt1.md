@@ -12,7 +12,7 @@ image:
   creditlink: ""
 ---
 
-For as long as I can remember, I’ve had an obsession with two wheels. Although my level of immediate interest in this wonderful class of vehicles has ebbed through my nearly 27 years of life, I feel it’s served as a focal point, and an interest I intend to pursue [unceasingly] moving forward...let me explain.
+For as long as I can remember, I’ve had an obsession with two wheels. Although my level of immediate interest in this wonderful class of vehicles has ebbed through my nearly 27 years of life, I feel it’s served as a focal point, and an interest I intend to pursue unceasingly moving forward...let me explain.
 
 ### Circa 2000: In the Beginning...
 
@@ -34,7 +34,7 @@ I’m sure both my parents were a bit relieved that I didn’t actually commit t
 
 > To say I was a bit jealous would be an understatement.
 
-It was 2011 and there was so much excitement around DIY electric vehicle conversions. One of my childhood friends even had a (converted DeLorean)[link to luke's e-delorean]. Sure, he had some problems (bent the frame due to battery weight), but he'd built an all-electric vehicle himself. To say I was a bit jealous would be an understatement. I absolutely wanted something similar, and my love for two wheels seemed an obvious differentiation.
+It was 2011 and there was so much excitement around DIY electric vehicle conversions. One of my childhood friends even had a [converted DeLorean][1]. Sure, he had some problems (bent the frame due to battery weight), but he'd built an all-electric vehicle himself. To say I was a bit jealous would be an understatement. I absolutely wanted something similar, and my love for two wheels seemed an obvious differentiation.
 
 > I do not have an electric motorcycle (yet)
 
@@ -55,3 +55,5 @@ Alright, so I decided to turn this into a multi-part series because it was getti
 I love hearing from y'all so shoot me a message about your thoughts!
 
 Merry Christmas and Happy Holidays!
+
+[1]: http://gas2.org/2008/10/14/texas-teen-builds-his-own-electric-car-on-10000-budget/
