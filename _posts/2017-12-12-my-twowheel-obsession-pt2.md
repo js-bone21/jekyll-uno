@@ -62,7 +62,6 @@ The SV650 was an absolute blast, and I hope to possibly pick up something simila
 
 Sadly, I sold this bike in late 2016 due to moving away from Florida and eventually, out of the United States.
 
-
 Safe travels and happy surfing!
 
 Josh S =P
