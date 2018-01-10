@@ -27,7 +27,7 @@ If you’ve never bike commuted, I would highly recommend it! Here are some majo
 * Save on gas
 * If you don’t have a car, save on insurance and depreciation and maintenance and taxes - plus, you can still rent a car if you need one (road trip anyone?)
 
-Welp, I can’t say enough about bike commuting - good and bad, but that's for another [article][#].
+Welp, I can’t say enough about bike commuting - good and bad, but that's for another [article](#).
 
 I absolutely love bike commuting and I’ve committed myself to NEVER driving a car for commuting purposes again - [more on that in another post](#) ;)
 
