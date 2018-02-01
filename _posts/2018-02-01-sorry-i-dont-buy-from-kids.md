@@ -65,8 +65,8 @@ Safe travels and happy surfing!
 Josh S =P
 
 
-1: https://genius.com/Rodney-atkins-its-america-lyrics
-2: http://www.girlscouts.org/en/cookies/all-about-cookies/How-to-Buy.html
-3: http://www.worldsfinestfundraisingprograms.com/worlds-finest-chocolate/
-4: https://www.fundraisingzone.com/brochure-fundraising-ideas/sally-foster-wrapping-paper-fund-raiser/
-5: http://www.chicagotribune.com/business/ct-back-to-school-fundraising-sales-0804-biz-20150803-story.html
+[1]: https://genius.com/Rodney-atkins-its-america-lyrics
+[2]: http://www.girlscouts.org/en/cookies/all-about-cookies/How-to-Buy.html
+[3]: http://www.worldsfinestfundraisingprograms.com/worlds-finest-chocolate/
+[4]: https://www.fundraisingzone.com/brochure-fundraising-ideas/sally-foster-wrapping-paper-fund-raiser/
+[5]: http://www.chicagotribune.com/business/ct-back-to-school-fundraising-sales-0804-biz-20150803-story.html
