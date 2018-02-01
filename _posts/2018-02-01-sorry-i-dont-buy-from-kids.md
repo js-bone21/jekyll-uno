@@ -19,11 +19,11 @@ I hadn't thought too much about the children approaching me on the street...all 
 
 I started to look into this because I have this image of GI's in Vietnam (and perhaps other travelers before me) passing out pieces of chocolate to the local kids swarming around their legs. Turns out, as tourism has grown, so had this habit that many people had seen in films or other such videos. It had grown to the point that it seems that local children started having more and more dental problems, which probably lead to the suggestion that candy should no longer be handed out. This seemed straightforward enough to me, but why not buy from children?
 
-After all, children in the US often set up such businesses as lemonade stands or go door to door peddling [Girl Scout Cookies](2) and [chocolate bars](3). Should I refrain from buying from those children as well?
+After all, children in the US often set up such businesses as lemonade stands or go door to door peddling [Girl Scout Cookies][2] and [chocolate bars][3]. Should I refrain from buying from those children as well?
 
 
 ### Lemonade Stands in Middle-Class America
-Similar to the romantic views I have of American soldiers passing out chocolate to children abroad, I have a view of kids selling lemonade from a stand. This and similar images are used in films, commercials, and in school-fund fundraisers such as Sally Foster wrapping paper (which has since [gone bankrupt](4)), Girl Scout Cookies, and chocolate bars, to name [just a few](5).
+Similar to the romantic views I have of American soldiers passing out chocolate to children abroad, I have a view of kids selling lemonade from a stand. This and similar images are used in films, commercials, and in school-fund fundraisers such as Sally Foster wrapping paper (which has since [gone bankrupt][4]), Girl Scout Cookies, and chocolate bars, to name [just a few][5].
 
 It even seems incredibly American because of our ideas about Americans' "rugged individualism" and entrepreneurial spirit. What is more American than a kid starting his own business selling lemonade?
 
