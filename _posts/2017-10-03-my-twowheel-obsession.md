@@ -130,7 +130,7 @@ It was during my mission statement writing and through subsequent books and refl
 
 Motorcycles. There’s just no feeling in the world, in my opinion, like being on two wheels in the open air. Although I similarly love bicycles, as two wheelers, motorcycles have a enhanced emotional connection to me. I cannot count the times I’ve ridden my motorcycle out of a neighborhood in the morning and just suddenly felt a wave of positive energy flow over me - the crisp morning air blowing through my jacket, ...blah..feel this out.
 
-It was further cemented after reading Essentialism and feeling that all humans seek this one priority in work as well as their fpersonal life. This is, afterall, why I wrote a personal mission statement, and why relationships are first.
+It was further cemented after reading Essentialism and feeling that all humans seek this one priority in work as well as their personal life. This is, afterall, why I wrote a personal mission statement, and why relationships are first.
 
 Blah blah….not getting where I want
 

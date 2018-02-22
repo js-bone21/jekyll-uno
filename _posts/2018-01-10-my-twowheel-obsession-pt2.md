@@ -56,7 +56,7 @@ The first-gen SV650 is a sleek-looking half-faired V-twin - two cylinders, arran
 
 My first impressions of the bike was that the engine was butter compared to the KLR650’s giant single-cylinder “thumper”. With the stock gearing, anything over about 55 or 60mph will shake you apart quicker than a [Junker vibration test][3]. The SV650 still gives a lot of low-end torque like it’s KLR brother (in my garage family), but I especially loved the 6th gear that the Gen-1 KLR so desperately needed.
 
-I rode this bike all over central Florida. Unfortunately, although I did want to get it out to a track day...I never really made it a priority so sadly, although I lived in Orlando for a full year (and even bought a truck so I could transport motorcycles(.
+I rode this bike all over central Florida. Unfortunately, although I did want to get it out to a track day...I never really made it a priority so, sadly, although I lived in Orlando for a full year (and even bought a truck so I could transport motorcycles).
 
 The SV650 was an absolute blast, and I hope to possibly pick up something similar as a future run-around or, ideally, a race-specific bike! These things really are fantastic and if you can find one in good shape under about $1800, I highly recommend picking one up! (Who says motorcycles have to be expensive?)
 
