@@ -21,7 +21,7 @@ This has been the best thing I've done since I decided to study abroad in Istanb
 
 I suppose it's a bit confusing why even I would bring this up in regards to motorcycles, but, to me, it's quite clear - (F)Unemployment has given me the opportunity to seek out what it is that I want to do and to focus exclusively on how to get there.
 
-If you haven't read it by now, I highly recommend reading ["The 7 Habits of Highly Effective People"][1]. One of the biggest actions that came from reading this book is writing a [Personal Mission Statement][ComingSoon] for myself. Here's what I wrote in January 2017:
+If you haven't read it by now, I highly recommend reading _["The 7 Habits of Highly Effective People"][1]_. One of the biggest actions that came from reading this book is writing a [Personal Mission Statement][ComingSoon] for myself. Here's what I wrote in January 2017:
 
 > I will prioritize my personal relationships.  
 I will focus on today.  
@@ -35,7 +35,7 @@ I don’t make mistakes. I learn lessons.
 This was the action that set me upon the path of deciding only to do what is best for me; to prioritize these items above all else. This is not a static statement, however, and I'm currently working to revamp this statement for 2018. Stay Tuned.
 
 ### Jun 2017: 2xxx Mile US Road trip
-One of my favorite events/trips from my time (F)Unemployed was simply riding around parts of the US on my trusty stead, the infamous [KLR650][link to pt 2, section on KLR].
+One of my favorite events/trips from my time (F)Unemployed was simply riding around parts of the US on my trusty stead, the [infamous KLR650](/2018/my-twowheel-obsession-pt2).
 
 From dirt, boring open highway, mud, twisties, flat, mountainous, backroads, city skylines, and small-town America, I pretty much did everything the US had to offer (except sand and desert...so, I have some more work to do!).
 
@@ -47,12 +47,12 @@ I absolutely love the US, and I criticize it because I think we can make it grea
 
 That said, road trips are fun, but road trips on motorcycle are absolutely the best way to see this wonderfully beautiful country of ours. I cannot be convinced otherwise. If anyone reading this wants to take a road trip of any kind, do not hesitate for a single second to call me (it's absolutely urgent, so don't text!).
 
-### August 2017: The Revelation - Rejuvenation, Reflection, and then, Revelation
+### August 2017: The Revelation
 >“The word priority came into the English language in the 1400s. It was singular. It meant the very first or prior thing. It stayed singular for the next five hundred years.”  
 -Greg McKeown,  
-  Essentialism: The Disciplined Pursuit of Less
+  _Essentialism: The Disciplined Pursuit of Less_
 
-A priority is simply the single most important thing and _Essentialism_ is all about finding that priority in different arenas - your personal life, professional life, daily schedule/routine/habits, etc.
+A priority is simply the single most important thing and _[Essentialism][3]_ is all about finding that priority in different arenas - your personal life, professional life, daily schedule/routine/habits, etc.
 
 > I'm not merely part of this experience, but every fiber of my being ***IS*** this experience.
 
@@ -76,4 +76,6 @@ I'm still trying to figure it out, but I hope you'll stick around for what happe
 Follow me on Facebook, Instagram, Twitter, and LinkedIn over there  
 
 [1]: https://www.stephencovey.com/7habits/7habits.php
+[2]:  (/2018/my-twowheel-obsession-pt2)
+[3]: https://gregmckeown.com/product/essentialism-the-disciplined-pursuit-of-less/
 [ComingSoon]: http://www.joshsoucie.com/comingsoon
