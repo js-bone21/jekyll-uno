@@ -45,7 +45,7 @@ I absolutely love the US, and I criticize it because I think we can make it grea
 
 > I haven't been everywhere, but it's on my list.
 
-That said, road trips are fun, but road trips on motorcycle are absolutely the best way to see this wonderfully beautiful country of ours. I cannot be convinced otherwise. If anyone reading this wants to take a road trip of any kind, do not hesitate for a single second to call me (it's absolutely urgent, so don't text!).
+That said, road trips are fun, but road trips on motorcycle are absolutely the best way to see this wonderfully beautiful country of ours. I cannot be convinced otherwise. If anyone reading this wants to take a road trip of any kind, do not hesitate for a single second to call me (it's absolutely urgent, so don't text! Call!).
 
 ### August 2017: The Revelation
 >“The word priority came into the English language in the 1400s. It was singular. It meant the very first or prior thing. It stayed singular for the next five hundred years.”  
