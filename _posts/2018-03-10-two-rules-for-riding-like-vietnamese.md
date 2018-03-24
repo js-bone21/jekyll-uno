@@ -12,26 +12,23 @@ image:
   creditlink: ""
 ---
 
-Lane-splitting (or lane filtering) is a commonly used motorcycling tactic in many parts of the world. Unfortunately, in the US, it's only legal in one state, California. One of the most liberal states is one of the leaders in freedom of choice for motorcyclists. So what is it, and why should I support it?
-
-### Riding Background Disclaimer
-I'm not from California and have never lived there, so I've never given much thought to lane-filtering. That changed when I decided to ride in Asia.
-
+I lovingly refer to Vietnam as "Motorcycle Mecca". Why? Because riding there is like nowhere else I've ever been on a motorized two-wheeled vehicle. If you ride a motorcycle/motorbike, I consider it somewhat of a pilgrimage to ride in Vietnam.
 
 ### That Itch Though...
-I started to get the itch after the first month without my motorcycles, but felt really out of touch when I learned I was going to be unable to legally acquire a motorcycle in Shanghai.
+I started to get the motorcycle itch after the first month in China without my motorcycles, but felt really out of touch when I learned I was going to be unable to legally acquire a motorcycle in Shanghai.
 
 So I did what any rational motorcycle gearhead would do and planned a trip to Ho Chi Minh City, Vietnam, the motorbike capital of the world.
 
-For many westerners, traffic is absolutely insane. Even crossing the street takes a lot of courage and a few tries following locals before getting comfortable making the crossing solo.
+For many westerners, traffic in Ho Chi Minh (aka HCMC) is absolutely insane. Even crossing the street takes a lot of courage and a few tries following locals before getting comfortable making the crossing solo.
 
-How then, would I fare mounting up and riding around with locals?
-
+If crossing the street on foot was even an issue, how then, would I fare mounting up and riding around with locals?
 
 ### The Vietnamese Symphony
-I'll be honest, traffic in Vietnam scared me. In my first morning walking around, I couldn't help but giggle a bit every time there was a green light and the gaggle of motorbikes would roar to life in a raucous symphony of small-displacement engines. ***"The Heartbeat of Vietnam"***, I thought to myself. Honestly, the only place I've seen even close to as many motorbikes in the same place is Daytona Bike Week and that comes nowhere near the number of riders in Vietnam (#).
+I'll be honest, traffic in Vietnam scared me. In my first morning walking around, I couldn't help but giggle a bit every time there was a green light and the gaggle of motorbikes would roar to life in a raucous symphony of small-displacement engines. ***"The Heartbeat of Vietnam"***, I thought to myself. Honestly, the only place I've seen even close to as many motorbikes in the same place is Daytona Bike Week and that comes nowhere near the number of riders in Vietnam - fun fact, there are [nearly 7.4 million motorbikes in HCMC alone][1].
 
-I convinced myself that, like crossing the street, the best way to become accustomed was to follow a local. So, I hired a motorbike tour guide (yes, these exist!) to drive me around. If I thought I'd giggled at the traffic from the sidewalk, I laughed raucously while I was driven (ridden?) around HCMC on the back of a (125cc?) Honda Wave.
+>"Everyone rides EXACTLY the same way"
+
+I convinced myself that, like crossing the street, the best way to become accustomed was to follow a local. So, I hired a motorbike tour guide (yes, these exist!) to drive me around. If I thought I'd giggled at the traffic from the sidewalk, I laughed raucously while I was driven (ridden?) around HCMC on the back of a [125CC Honda Wave][2].
 
 After about an hour, I felt like I had a much better understanding of the unwritten rules of the road in Vietnam. It was much the same as the mechanics of crossing the street and honestly, I wish American traffic could work just as fluidly as the *seemingly* chaotic traffic of Vietnam.
 
@@ -43,25 +40,32 @@ Yes, you read that correctly.
 
 If you want to make a left, communicate by starting to slowly drift to the left side of traffic (ideally) well before your turn. The same for right turns. Want to merge? Do so slowly and intentionally while trying to match the speed of traffic as quickly as possible.
 
+>"The best way to become accustomed is to follow a local"
+
 Even though it seems at first glance as if there is lawlessness, really, it's the fact that everyone has the same goal while driving and that goal is to keep flowing. Everyone will yield or avoid or speed up in the best way they see possible to avoid stopping themselves or impeding anyone else who may be using the roadway including pedestrians crossing the street.
 
 The system works because everyone rides EXACTLY the same way. Seriously, that's the key. The consistency of Vietnamese traffic is rarely interrupted.
 
 ### Two Rules for Riding like the Vietnamese
-So, I hopped on my rental 130cc Honda Win and set off...terrified at first and slowly easing into the flow of traffic.
 
-In less than 20 minutes, I was that gringo/foreigner who rode like a Vietnamese person.
-
-Yes, I got looks, but never because I was in someone's way. I tried my hardest to ride exactly like the Vietnamese.
-
-To me, the number one unspoken rule is: ***flow***.
+To me, the number one unspoken rule is: ***flow***.  
 The number two rule is: ***consistency***.
+
+If you ensure traffic continues to flow and ride consistently, you'll be riding like the Vietnamese in a short time. So, I hopped on my rental 130cc Honda Win and set off...terrified at first and slowly easing into the flow of traffic.
+
+Yes, I got stares, but in less than 20 minutes, I was that gringo/foreigner who rode like a Vietnamese person. I even got a bucket helmet and pollution mask to complete the look!
+
 
 Safe travels and happy surfing!
 
 Josh S =P
 
+Vietnam is one of my favorite countries. It is absolutely rough around the edges and nearly guaranteed to scare you the first time you drop in. But if you can look past that, Vietnam is an absolutely gorgeous country with incredibly nice people despite it's still recent history and incredible cuisine (seriously, Anthony Bourdain spent a year there).
+
+If you ever have the opportunity, I highly recommend Vietnam.
+
+**And if you think you might be interested in a motorcycle tour, reach out to me in a message! ;)**
 
 
-
-[1]: #
+[1]: http://www.thanhniennews.com/society/ho-chi-minh-city-now-has-74-million-motorbikes-and-counting-57787.html
+[2]: https://www.google.com/search?q=honda+wave&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi-4PnhroXaAhVHj1kKHT44DNEQ_AUICigB&biw=1159&bih=806#imgrc=48Co_wkx8jCxPM:

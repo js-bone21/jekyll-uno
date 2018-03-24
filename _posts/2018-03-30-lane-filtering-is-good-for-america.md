@@ -12,6 +12,11 @@ image:
   creditlink: ""
 ---
 
+Lane-splitting (or lane filtering) is a commonly used motorcycling tactic in many parts of the world. Unfortunately, in the US, it's only legal in one state, California. One of the most liberal states is one of the leaders in freedom of choice for motorcyclists. So what is it, and why should I support it?
+
+### Riding Background Disclaimer
+I'm not from California and have never lived there, so I've never given much thought to lane-filtering. That changed when I decided to ride in Asia.
+
 ### What is Lane Splitting/Filtering?
 Lane Splitting, Lane Filtering...sounds the same, but I recently learned, [are different][1]. What's the difference then?
 
