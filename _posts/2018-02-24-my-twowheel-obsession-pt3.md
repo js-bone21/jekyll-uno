@@ -73,8 +73,6 @@ Hey all! Thanks for reading...wow, this third part took me much longer to get ou
 
 I'm still trying to figure it out, but I hope you'll stick around for what happens going forward.
 
-Follow me on Facebook, Instagram, Twitter, and LinkedIn over there  
-
 [1]: https://www.stephencovey.com/7habits/7habits.php
 [2]:  (/2018/my-twowheel-obsession-pt2)
 [3]: https://gregmckeown.com/product/essentialism-the-disciplined-pursuit-of-less/
