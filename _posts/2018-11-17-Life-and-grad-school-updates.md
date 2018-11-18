@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Life and Blog Updates"
+title: "Life and Grad School Updates"
 categories: journal
 tags: [journal,life updates]
 image:
